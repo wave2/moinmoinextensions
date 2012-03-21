@@ -35,7 +35,7 @@ License
 
 Copyright &copy; 2000-2012 Wave2 Limited. All rights reserved. Licensed under [BSD License].
 
-[BSD License]: https://github.com/wave2/xmppwrite/raw/master/LICENSE
+[BSD License]: https://github.com/wave2/moinmoinextensions/raw/master/LICENSE
 [Fork]: http://help.github.com/fork-a-repo
 [Issue]: https://github.com/wave2/moinmoinextensions/issues
 [Pull Request]: http://help.github.com/pull-requests
